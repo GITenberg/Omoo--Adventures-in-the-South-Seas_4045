@@ -1,0 +1,39 @@
+_repo: Omoo--Adventures-in-the-South-Seas_4045
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melville, Herman
+    alias: Melville, Hermann
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '9'
+    url: http://www.gutenberg.org/2009/agents/9
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Melville
+description: "Omoo: A Narrative of Adventures in the South Seas is the second book\
+  \ by American writer Herman Melville, first published in London in 1847, and a sequel\
+  \ to his first South Sea narrative Typee, also based on the author's experiences\
+  \ in the South Pacific. After leaving the island of Nuku Hiva, the main character\
+  \ ships aboard a whaling vessel that makes its way to Tahiti, after which there\
+  \ is a mutiny and the majority of the crew are imprisoned on Tahiti.\n\n\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4045'
+  wikidata: Q3882301
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Polynesia -- Description and travel -- Fiction'
+- GITenberg
+title: 'Omoo: Adventures in the South Seas'
+url: http://www.gutenberg.org/ebooks/4045
+wikipedia:
+- https://fr.wikipedia.org/wiki/Omoo
+- https://en.wikipedia.org/wiki/Omoo
+- https://it.wikipedia.org/wiki/Omoo
+- https://pt.wikipedia.org/wiki/Omoo
