@@ -1,5 +1,8 @@
 _repo: Omoo--Adventures-in-the-South-Seas_4045
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Melville, Herman
@@ -16,6 +19,8 @@ description: "Omoo: A Narrative of Adventures in the South Seas is the second bo
   \ ships aboard a whaling vessel that makes its way to Tahiti, after which there\
   \ is a mutiny and the majority of the crew are imprisoned on Tahiti.\n\n\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4045#Omoo--Adventures-in-the-South-Seas
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
